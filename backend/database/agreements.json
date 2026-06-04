@@ -1,0 +1,24 @@
+[
+  {
+    "id": "AGR-5286",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carName": "NISSAN LEAF",
+    "weeklyRate": 45,
+    "startDate": "2026-06-03",
+    "endDate": "2027-05-29",
+    "paidContributions": 0,
+    "remainingMonths": 12,
+    "depositStatus": "Pending",
+    "insuranceCopyUrl": null
+  },
+  {
+    "id": "AGR-6031",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carName": "KIA SPORTAGE",
+    "weeklyRate": 45,
+    "startDate": "2026-06-04",
+    "endDate": "2027-06-04",
+    "paidContributions": 45,
+    "remainingMonths": 12
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "email": "google.driver@example.com",
+    "fullName": "Google Authenticated Driver",
+    "role": "user",
+    "passwordHash": "google_dummy"
+  },
+  {
+    "email": "kheelomahi1234@gmail.com",
+    "fullName": "Khalil Ahmad",
+    "role": "admin",
+    "passwordHash": "google_dummy",
+    "phone": ""
+  },
+  {
+    "email": "khalilvictor2438@gmail.com",
+    "fullName": "Sana Developer",
+    "phone": "07345674566",
+    "role": "user",
+    "passwordHash": "$2b$12$oKczjxImXmh3a6kjoYi/yu1HFLSfJVSiNiaUzEVVkjTHqSn9JumXK"
+  }
+]

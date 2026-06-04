@@ -1,0 +1,103 @@
+[
+  {
+    "id": "APP-6189",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carId": "car_4",
+    "carName": "KIA SPORTAGE - 1.6 T-GDi GT-Line S PHEV Auto",
+    "dateApplied": "2026-06-04",
+    "submissionDateTime": "2026-06-04T06:08:57.555Z",
+    "step": 4,
+    "status": "Approved",
+    "creditCheckStatus": "PASSED (SOFT INCOME VERIFY)",
+    "userId": "khalilvictor2438@gmail.com",
+    "fullName": "Sana Developer",
+    "phone": "07345678",
+    "licenseFrontUrl": "http://localhost:3000/uploads/licenseFront-1780553337031-987235692.jpeg",
+    "licenseBackUrl": "http://localhost:3000/uploads/licenseBack-1780553337040-182247160.jpeg",
+    "selfieUrl": "http://localhost:3000/uploads/proofOfAddress-1780553337049-4217246.jpg",
+    "applyDetails": {
+      "fullName": "Sana Developer",
+      "phone": "07345678",
+      "employment": "Full Time Employee",
+      "weeklyIncome": 686,
+      "durationMonths": 24,
+      "drivingLicence": "http://localhost:3000/uploads/licenseFront-1780553337031-987235692.jpeg",
+      "addressProof": "http://localhost:3000/uploads/licenseBack-1780553337040-182247160.jpeg",
+      "selfieWithId": "http://localhost:3000/uploads/proofOfAddress-1780553337049-4217246.jpg",
+      "location": "Manchester, United Kingdom"
+    },
+    "documentChecks": {
+      "drivingLicence": true,
+      "addressProof": true,
+      "selfie": true
+    }
+  },
+  {
+    "id": "APP-2624",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carId": "car_3",
+    "carName": "TESLA MODEL 3 - Dual Motor Long Range AWD Auto",
+    "dateApplied": "2026-06-04",
+    "submissionDateTime": "2026-06-04T04:18:27.689Z",
+    "step": 1,
+    "status": "Pending",
+    "creditCheckStatus": "PASSED (SOFT INCOME VERIFY)",
+    "userId": "khalilvictor2438@gmail.com",
+    "fullName": "Sana Developer",
+    "phone": "07234567",
+    "licenseFrontUrl": "http://localhost:3000/uploads/licenseFront-1780546706986-925343688.jpeg",
+    "licenseBackUrl": "http://localhost:3000/uploads/licenseBack-1780546706996-697406303.jpeg",
+    "selfieUrl": "http://localhost:3000/uploads/proofOfAddress-1780546707009-909064140.jpeg",
+    "applyDetails": {
+      "fullName": "Sana Developer",
+      "phone": "07234567",
+      "employment": "Full Time Employee",
+      "weeklyIncome": 456,
+      "durationMonths": 12,
+      "drivingLicence": "http://localhost:3000/uploads/licenseFront-1780546706986-925343688.jpeg",
+      "addressProof": "http://localhost:3000/uploads/licenseBack-1780546706996-697406303.jpeg",
+      "selfieWithId": "http://localhost:3000/uploads/proofOfAddress-1780546707009-909064140.jpeg",
+      "location": "Manchester, United Kingdom"
+    }
+  },
+  {
+    "id": "APP-5341",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carName": "TESLA MODEL 3 - Dual Motor Long Range AWD Auto",
+    "dateApplied": "2026-06-03",
+    "step": 1,
+    "status": "Rejected",
+    "creditCheckStatus": "PASSED (SOFT INCOME VERIFY)",
+    "applyDetails": {
+      "durationMonths": 12,
+      "drivingLicence": "https://images.unsplash.com/photo-1554774853-aae0a22c8aa4?auto=format&fit=crop&q=80&w=800",
+      "selfieWithId": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&q=80&w=800",
+      "addressProof": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800"
+    },
+    "documentChecks": {
+      "drivingLicence": false,
+      "addressProof": false,
+      "selfie": false
+    }
+  },
+  {
+    "id": "APP-1481",
+    "userEmail": "khalilvictor2438@gmail.com",
+    "carName": "NISSAN LEAF - 160kW Tekna 62kWh EV Auto",
+    "dateApplied": "2026-06-03",
+    "step": 4,
+    "status": "Approved",
+    "creditCheckStatus": "PASSED (SOFT INCOME VERIFY)",
+    "applyDetails": {
+      "durationMonths": 12,
+      "drivingLicence": "https://images.unsplash.com/photo-1554774853-aae0a22c8aa4?auto=format&fit=crop&q=80&w=800",
+      "selfieWithId": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?auto=format&fit=crop&q=80&w=800",
+      "addressProof": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=800"
+    },
+    "documentChecks": {
+      "drivingLicence": true,
+      "addressProof": true,
+      "selfie": true
+    }
+  }
+]
